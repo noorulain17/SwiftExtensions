@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		4E62F4E724BB44B800E7E4C8 /* URL+Ext.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E62F4E624BB44B800E7E4C8 /* URL+Ext.swift */; };
+		4E62F4E924BCAA1A00E7E4C8 /* UIView+Ext.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E62F4E824BCAA1A00E7E4C8 /* UIView+Ext.swift */; };
 		4E6457CA24B5C9290008AFAE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E6457C924B5C9290008AFAE /* AppDelegate.swift */; };
 		4E6457CC24B5C9290008AFAE /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E6457CB24B5C9290008AFAE /* SceneDelegate.swift */; };
 		4E6457CE24B5C9290008AFAE /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E6457CD24B5C9290008AFAE /* ViewController.swift */; };
@@ -19,6 +20,7 @@
 
 /* Begin PBXFileReference section */
 		4E62F4E624BB44B800E7E4C8 /* URL+Ext.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "URL+Ext.swift"; sourceTree = "<group>"; };
+		4E62F4E824BCAA1A00E7E4C8 /* UIView+Ext.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIView+Ext.swift"; sourceTree = "<group>"; };
 		4E6457C624B5C9290008AFAE /* SwiftExtension.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftExtension.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4E6457C924B5C9290008AFAE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		4E6457CB24B5C9290008AFAE /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -77,6 +79,7 @@
 			children = (
 				4E6457E024B5CAFD0008AFAE /* UIColor+Ext.swift */,
 				4E62F4E624BB44B800E7E4C8 /* URL+Ext.swift */,
+				4E62F4E824BCAA1A00E7E4C8 /* UIView+Ext.swift */,
 			);
 			path = Extensions;
 			sourceTree = "<group>";
@@ -153,6 +156,7 @@
 			files = (
 				4E6457CE24B5C9290008AFAE /* ViewController.swift in Sources */,
 				4E6457E124B5CAFD0008AFAE /* UIColor+Ext.swift in Sources */,
+				4E62F4E924BCAA1A00E7E4C8 /* UIView+Ext.swift in Sources */,
 				4E62F4E724BB44B800E7E4C8 /* URL+Ext.swift in Sources */,
 				4E6457CA24B5C9290008AFAE /* AppDelegate.swift in Sources */,
 				4E6457CC24B5C9290008AFAE /* SceneDelegate.swift in Sources */,
