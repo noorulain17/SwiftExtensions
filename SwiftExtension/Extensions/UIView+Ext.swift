@@ -26,7 +26,6 @@ extension UIView {
     }
     
     var viewAsImage: UIImage {
-        
         return UIGraphicsImageRenderer(size: bounds.size).image { _ in
             drawHierarchy(in: bounds, afterScreenUpdates: true)
         }

@@ -16,6 +16,7 @@
 		4E6457D324B5C92A0008AFAE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4E6457D224B5C92A0008AFAE /* Assets.xcassets */; };
 		4E6457D624B5C92A0008AFAE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4E6457D424B5C92A0008AFAE /* LaunchScreen.storyboard */; };
 		4E6457E124B5CAFD0008AFAE /* UIColor+Ext.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E6457E024B5CAFD0008AFAE /* UIColor+Ext.swift */; };
+		4EDAD52E24DAF62700FB701C /* String+Ext.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EDAD52D24DAF62700FB701C /* String+Ext.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +31,7 @@
 		4E6457D524B5C92A0008AFAE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		4E6457D724B5C92A0008AFAE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		4E6457E024B5CAFD0008AFAE /* UIColor+Ext.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIColor+Ext.swift"; sourceTree = "<group>"; };
+		4EDAD52D24DAF62700FB701C /* String+Ext.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "String+Ext.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,6 +82,7 @@
 				4E6457E024B5CAFD0008AFAE /* UIColor+Ext.swift */,
 				4E62F4E624BB44B800E7E4C8 /* URL+Ext.swift */,
 				4E62F4E824BCAA1A00E7E4C8 /* UIView+Ext.swift */,
+				4EDAD52D24DAF62700FB701C /* String+Ext.swift */,
 			);
 			path = Extensions;
 			sourceTree = "<group>";
@@ -155,6 +158,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				4E6457CE24B5C9290008AFAE /* ViewController.swift in Sources */,
+				4EDAD52E24DAF62700FB701C /* String+Ext.swift in Sources */,
 				4E6457E124B5CAFD0008AFAE /* UIColor+Ext.swift in Sources */,
 				4E62F4E924BCAA1A00E7E4C8 /* UIView+Ext.swift in Sources */,
 				4E62F4E724BB44B800E7E4C8 /* URL+Ext.swift in Sources */,
